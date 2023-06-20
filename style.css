@@ -1,0 +1,308 @@
+*{margin:0;
+padding:0;
+text-decoration:0;
+list-style:none;
+}
+
+nav{display:flex;
+justify-content: space-between;
+height:98px;
+background:white;
+border-bottom:1px solid #E6DCEE;
+top:0px;
+position:sticky;}
+nav ul{display:flex;
+margin-top:40px;}
+nav ul li{margin-left:40px;
+font-size:20px}
+nav ul{padding-right:200px}
+.Logo{margin-top:30px;
+margin-left:150px;
+}
+#grey{color:#E6DCEE}
+nav ul li a{color:black;
+font-family:'Poppins'}
+.Ag a:hover{color:blue;}
+.Firstpart{margin-top:100px;
+margin-left:150px;
+;
+color:#202046;}
+.Digit{font-family:'Poppins1';
+    font-size:50px;
+font-weight:bolder}
+.AN{font-size:17px;
+margin-top:20px;
+font-family:'Poppins'}
+.Images{margin-top:45px;
+letter-spacing:40px}
+.Ph{margin-left:770px;
+margin-top:-400px}
+.drp{display:block;
+background:white;
+border:1px solid #E6DCEE;
+border-radius:5px;
+font-size:17px;
+height:30px;
+padding-top:15px;
+padding-bottom:10px;
+padding-right:30px;
+padding-left:20px;
+margin-left:-14px;
+margin-top:13px;
+box-shadow:2px 3px 2px 2px #E6DCEE;
+}
+#white{color:#202046}
+.bac:hover{background:aliceblue;
+}
+.drp{display:none}
+.Per:hover .drp{display:block;
+    overflow:hidden;}
+
+       .drp1{display:block;
+        background:white;
+        border:1px solid #E6DCEE;
+        border-radius:5px;
+        font-size:17px;
+        height:100px;
+        padding-top:15px;
+        padding-bottom:10px;
+        padding-right:30px;
+        padding-left:10px;
+        margin-left:-14px;
+        margin-top:13px;
+        box-shadow:2px 3px 2px 2px #E6DCEE;
+        overflow:visible;
+        line-height:35px
+        }
+        #white{display:none}
+        .bac1:hover #white{display:inline-block}
+        .drp1 a:hover{color:black}
+        .drp1{display:none;}
+        .Co:hover .drp1{display:block}
+
+
+        .drp11{display:block;
+            background:white;
+            border:1px solid #E6DCEE;
+            border-radius:5px;
+            font-size:17px;
+            height:30px;
+            padding-top:15px;
+            padding-bottom:10px;
+            padding-right:10px;
+            padding-left:10px;
+            margin-left:-14px;
+            margin-top:13px;
+            box-shadow:2px 3px 2px 2px #E6DCEE;
+            overflow:visible;
+            line-height:35px}
+            .a:hover{color:black;}
+            .drp11{display:none;}
+            .Ag1:hover .drp11{display:block;}
+            @font-face {
+                font-family: 'Poppins';
+                src: url(/Poppins-Medium.ttf);
+            }
+            @font-face {
+                font-family:'Poppins1';
+                src: url(/Poppins-Light.ttf);
+            }
+/* Part 2 starts here */
+.part2{height:700px;
+margin-top:100px;
+margin-left:150px}
+.Side{margin-left:700px;
+margin-top:-450px}
+.En{font-size:45px;
+font-family:'Poppins1';
+color:#202046}
+.fast{color:#202046;
+font-size:22px;
+font-family:'Poppins';
+margin-top:20px}
+.Li{font-size:22px;
+font-family:'Poppins';
+margin-top:20px}
+.part3{height:500px;
+    margin-top:90px;
+    margin-left:150px
+}
+.Get{font-size:40px;
+font-family:'Poppins1';
+color:#202046}
+.Good{color:#202046;
+font-family:'Poppins1';
+font-size:20px;
+margin-top:20px;
+line-height:30px}
+.button{height:40px;
+width:100px;
+font-size:15px;
+background:#6306B2;
+border-radius:10px;
+margin-top:20px;
+padding-top:15px;
+padding-bottom:5px;
+padding-left:30px;
+padding-right:30px
+}
+.button a{color:white;
+font-family:'Poppins'}
+.piggy{margin-left:650px;
+margin-top:-400px}
+/* part 4 starts here */
+.part4{margin-top:40px;
+background:#4A0586;
+height:650px;
+padding-top:50px;
+padding-left:430px}
+.See{font-size:40px;
+color:white;
+font-family:'Poppins'}
+.Bb{background:#530499;
+    margin-left:-250px;
+    height:40px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:200px;
+    color:white;
+    font-family:'Poppins';
+    display:block;
+    margin-top:30px;
+}
+.PP{font-size:30px;
+    margin-top:-50px;
+    margin-left:70px
+}
+.lp{font-size:20px}
+.line{border-left: 2px solid white;
+height:50px;
+margin-left:400px;
+margin-top:-50px}
+.apl{margin-left:20px;
+    margin-top:2px
+}
+.PPP{font-size:30px;
+    margin-top:-50px;
+    margin-left:500px
+}
+.Boxes{margin-top:30px;
+margin-left:-250px;
+width:370px;
+background:white;
+height:360px;
+border-radius:20px;
+padding-left:20px;
+padding-top:40px;
+
+}
+.Sani{color:#202046;
+margin-left:80px;
+margin-top:-80px;
+font-size:30px;
+font-family:'Poppins'}
+.star{margin-left:80px}
+.Para{color:#202046;
+margin-top:40px;
+font-size:30px;
+font-family:'Poppins1'}
+.Mar{margin-top:-367px;
+    margin-left:400px;
+    width:390px;
+    background:white;
+    height:360px;
+    border-radius:20px;
+    padding-left:20px;
+    padding-top:40px
+    }
+    .Eddy{margin-top:-325px;
+        margin-left:420px;
+        width:390px;
+        background:white;
+        height:360px;
+        border-radius:20px;
+        padding-left:20px;
+        padding-top:40px
+        }
+.part5{height:500px;
+margin-top:150px;
+margin-left:600px;
+font-family:'Poppins1';
+color:#202046;
+}
+.Our{font-size:45px}
+.Logos{margin-left:-460px;
+margin-top:100px;
+letter-spacing: 70px;
+line-height:120px
+}
+.part6{margin-top:230px;
+    margin-left:150px;
+    ;
+    color:#202046;}
+    .Digit1{font-family:'Poppins1';
+        font-size:40px;
+    font-weight:bolder;
+color:#595757;}
+    .AN1{font-size:20px;
+    margin-top:20px;
+    font-family:'Poppins';
+    color:#595757;}
+    .Images{margin-top:45px;
+    letter-spacing:40px}
+    .Ph{margin-left:770px;
+    margin-top:-400px}
+    .Licn{margin-top:60px;
+    font-size:17px;
+font-family:'Poppins1';
+color:#595757;}
+.cbn{margin-top:0px}
+.NDIC{font-family:'Poppins1';
+margin-top:-30px;
+margin-left:290px;
+color:#595757;
+font-size:17px;}
+.Ph1{margin-left:770px;
+    margin-top:-500px}
+    .Lastpart{height:500px;
+    background:#E6E6E6;
+    padding-top:130px;
+    padding-left:150px;
+    }
+    .con{font-size:23px;
+    font-family:'Poppins';}
+    .listt{margin-top:20px}
+    .listt li .grey a{font-size:16px;
+    font-family:'Poppins1';
+color:#595757}
+    .listt{font-size:16px;
+    line-height:50px;
+    font-family:'Poppins';
+}
+.listt li .grey a:hover{color:rgba(26, 141, 255, 0.991);}
+.con1{margin-top:-157px;
+font-size:23px;
+font-family:'Poppins';
+}
+.Fff{margin-left:380px}
+
+.con2{margin-top:-105px;
+    font-size:23px;
+    font-family:'Poppins';
+    }
+    .Ffff{margin-left:240px}
+
+    .con3{margin-top:-155px;
+        font-size:23px;
+        font-family:'Poppins';
+        }
+        .Fffff{margin-left:240px}
+        
+    .con4{margin-top:-255px;
+font-size:23px;
+font-family:'Poppins';
+}
+.Ffffff{margin-left:240px}
+.Socials{margin-top:40px;
+margin-left:-610px;
+letter-spacing:20px}
